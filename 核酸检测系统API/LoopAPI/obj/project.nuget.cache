@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "j069ID5gTuDOCh/CCIS1hDeeKrKhnhB8I+UTEkdQ8/n03vGmWJfxK72LF6HoZBYv0YCyFUr3yoMkrXJGR3RV2Q==",
+  "success": true,
+  "projectFilePath": "D:\\ProjectAll\\C#\\核酸检测系统API\\LoopAPI\\LoopAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\loop\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\loop\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\loop\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\loop\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\loop\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\loop\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
